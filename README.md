@@ -1,3 +1,9 @@
+PAIR 
+
+Marian Rain
+https://github.com/RainyDay3714/frontend.git
+
+
 Clone and Environment
 
 Bash
@@ -18,3 +24,4 @@ ROUTES
 /api/v1/projects/<id>/	GET	Detailed view of project and tasks.	Assigned Users
 /api/v1/projects/create/
 /api/v1/projects/<id>/task/create/
+
