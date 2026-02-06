@@ -3,7 +3,7 @@ Clone and Environment
 Bash
 python -m venv myenv
 source myenv/Scripts/activate  # Windows
-pip install django djangorestframework djangorestframework-simplejwt django-cors-headers
+pip install requirements.txt
 
 python manage.py makemigrations users project tasks
 python manage.py migrate
